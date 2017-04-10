@@ -56,9 +56,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "/Users/grolar/workspace/rails/task-manager-api/app/channels/application_cable/connection.rb": [
+        0,
         0,
         0,
         0,
@@ -68,9 +70,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "/Users/grolar/workspace/rails/task-manager-api/app/models/application_record.rb": [
+        0,
         0,
         0,
         0
@@ -84,6 +88,6 @@
         0
       ]
     },
-    "timestamp": 1491787729
+    "timestamp": 1491788237
   }
 }
